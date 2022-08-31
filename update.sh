@@ -6,4 +6,4 @@ flatpak update -y
 flatpak uninstall --unused
 neofetch
 echo "Your system is up to date you fucker"
-echo "Today is $(date)"
+ncal
